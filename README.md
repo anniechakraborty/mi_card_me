@@ -1,6 +1,6 @@
 # micardme
 
-This ismy different version of the mi-card project
+This is my different version of the mi-card project
 
 ## Getting Started
 
