@@ -1,4 +1,4 @@
-# micardme
+# mi-card
 
 This is my different version of the mi-card project
 
